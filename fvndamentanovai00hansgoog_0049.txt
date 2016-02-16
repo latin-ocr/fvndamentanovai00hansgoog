@@ -1,0 +1,45 @@
+'dationem qua efficitur, nt coordimtae statim iniunctione explicite. tent·
+poris determinentur, et qua simul incommoda illa amoventur.
+
+ln praecedentibus supposuimus a, b, c, e, s, gesse constantes arbi-
+trariae integratione aequationum (18) in expressionibus ipsarum a, y, z in·
+troductas. Sed perfacile intelligitur conclusiones praecedentes omnes, et
+iuter has nominatim aequationes (24), locum quoque habere, si a, b, c,
+e, s, g functiones quaecunque essent constantium arbitrariarum, quas irr-
+tegratio illa revera introduxerat. sit Λ functio quaedam coustantium a, b,
+etc, tum aequatione iuter A atque a, b, c, etc. respectu constantis unius
+e. g. respectu a resoluta, habetur
+
+a = funct. (A, b, o, e, s, g)
+
+qua aequatione constans a e functionibus X, Y, Z aequationum (19)
+eliminare licet, ita nt x, y, z functiones evadant constantium A, b, c,
+
+e, s, g. Quibus factis, methodus modo explicata aequationes suppeditat
+
+ipsis (23) et (24) plane similes, quibus vero ubique Λ locon inest. Quae
+conclusiones quum locum habeant, quomodocunque sunt constantes reliquae,
+quibus in functione
+
+A = funct. (a, b, o, essi g)
+
+quantitates a, b, c, etc. inter se coniunguntur3 supponere uobis licet, huic
+functioni quantitatem quandam arbitrariam τ inesse, durnmodo in formulis,
+inquibus a, b, c, etc. variabiles tractandae suut, ipsa τ constans pous-
+tur. Quantitas indeterminata haec c, quia iudetenninata est, post integra-
+tiones sequationum (25) peractas ad lubitum determinari potest3 ponendo
+vero post integrationes has peractas c: t, novam methodi variationis
+coustantium arbitrariamm applicationem assequemur, latioremque ei cam·
+
+pum aperiemus. Quem iu finem ante omnia hoc est demonstrandum, quod
+in nostra perturbationum theoria fundamentale dici potest
+
+⁴Theorema.
+
+, Quoties loco aliquem amnestiam arbitrariam a, b, c, etc. «lignum
+totidem constantes arbitrariae A, Γ, etc, qaae en mactantibus iilis et ’
+eu quantitate indeterminata s toli niodo compositae sunt, quali panti·-
+tutes quaeliba L, G, etc. es iisdem maneribus n, b, c, etc. et es
+
+ 
+

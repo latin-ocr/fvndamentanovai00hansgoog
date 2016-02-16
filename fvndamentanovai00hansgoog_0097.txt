@@ -1,0 +1,39 @@
+to
+
+¹ td aequationem υ] :z J' Η spectet in quantitatem analogum transferre,
+
+quae ad aequationem υ] :J' l· (n) y't -l-n' pertineat. Cuius problematis
+solutionem, quae iamin formulis art. 15. continetur, infra, ubi de aequa-
+tionibns nostris in series infinitas evolvendis sermo erit, copiose explicabi-
+mus. Quamobrem hocloco suppono perturbationes Solis aequationibus his
+
+q=f÷mn÷a
+n=nqo
+
+datas esse, ubis* et ἵ functiones ipsius ι’ sunt et ex hac quantitate adiu-
+mento aequationum ipsis (13) plane analogarum pendent. Quibus prae·
+missis habemus
+v} = (ὑπ’ 4- (niy't -l-n' -Ι- A, sin (ὑπ’ l— A, sin2 (π’)ειΙ -1- d, sind (n')z'†etc.
+τ’ = (a')cld {ll⁰ -l- H, cos(n')z' -1-Βζοοεῖ(η’)ι’“Ι-Β’3 cos3(n')a' †etc.}
+ubi cl longitudinem perigaei Solis denotat, et ubi coefficientes aequationis
+centri dl, A„ etc. et coefficientes radii vectoris Ro, B'„ ΒΖ, eto. ope
+excentricitatis temne Ἰ computandi sunt. Substitutis his expressionibus, quan-
+titates variabiles ‘²2‘ et r' iu Τ per π’ et ω’ redditae sunt. Adiumento igi-
+tur harum serierum omnium expressio ipsius Τ modo data, in seriem infi-
+’ uitem evolvitur, qnae explicata functio variabilium independentium ζ , β, lt,
+p, q, κ’, w', p', q', atque variabilinm z et w ex ζ et β dependentium, .
+facta est, et quae praeterea constantes (a), (n), (e), tt, (α’), (η’), (e'), τί
+continet.
+
+lt.
+
+¹Terminus constans inipso lt, qui est valor imperturbatus huius quan-
+titatis, est
+
+cuius loco quantitatem (t) illis (a), (e), etc. analogam introduci oportet ,
+Sumtis logarithmis hyperbolicis aequationem
+
+subtrahendo invenitur ,
+
+ 
+
